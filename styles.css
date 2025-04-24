@@ -11,7 +11,7 @@
     font-optical-sizing: auto;
     font-weight: normal;
     font-style: normal;
-    font-size: 12px;
+    font-size: 14px;
   }
 
 /* Colors */
@@ -33,5 +33,5 @@
 }
 
 .footnote {
-    font-size: 10px;
+    font-size: 12px;
 }
